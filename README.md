@@ -1,6 +1,6 @@
 # Week 2 Assignment
 
-To do the assignment, clone this repository, **make a new branch with your name**, add your answers to the questions as paragraphs in the index.html file, and then do the code assignment in script.js.
+To do the assignment, clone this repository, **make a new branch with your name**, add your answers to the questions as new lines in this document, and then do the code assignment in both index.html and script.js.
 
 ## Questions:
 1. What is the difference between `<input type="text">` and `<textarea>`?
